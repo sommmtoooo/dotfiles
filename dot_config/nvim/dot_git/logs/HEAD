@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 1246471fafb12de45a9577a6579c5527ca2b3ef1 somtodev <leroynnalue65@gmail.com> 1695737884 +0100	commit (initial): first commit
+1246471fafb12de45a9577a6579c5527ca2b3ef1 0000000000000000000000000000000000000000 somtodev <leroynnalue65@gmail.com> 1695737884 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 1246471fafb12de45a9577a6579c5527ca2b3ef1 somtodev <leroynnalue65@gmail.com> 1695737884 +0100	Branch: renamed refs/heads/master to refs/heads/main
+1246471fafb12de45a9577a6579c5527ca2b3ef1 96d46d6e30c492161cd096d1e2c37735f42091e7 somtodev <leroynnalue65@gmail.com> 1695737926 +0100	commit: Yay, I'm using Neovim
+96d46d6e30c492161cd096d1e2c37735f42091e7 cd41615bb8134ecb4fbe9791e7885f14d0e65c89 somtodev <leroynnalue65@gmail.com> 1695740439 +0100	commit: Update: + Refactoring
+cd41615bb8134ecb4fbe9791e7885f14d0e65c89 0275c61a553a0f5d17831d7c1fa8cd14763c8c5e somtodev <leroynnalue65@gmail.com> 1701771625 +0100	commit: Update: Removed Bloat Plugins
+0275c61a553a0f5d17831d7c1fa8cd14763c8c5e 6121f09d75639564a26fccbbed624c0e67954048 somtodev <leroynnalue65@gmail.com> 1701771834 +0100	commit: Update: Bug Flushed
+6121f09d75639564a26fccbbed624c0e67954048 b50fa611eef9f7b7b4ccff4194583374fca87042 somtodev <leroynnalue65@gmail.com> 1706021508 +0100	commit: Update: Tab Mappings
+b50fa611eef9f7b7b4ccff4194583374fca87042 72170e28bf01fdf2cd6ceac2a4be9523d159f3b0 somtodev <leroynnalue65@gmail.com> 1706025654 +0100	commit: Update: Toggleterm
+72170e28bf01fdf2cd6ceac2a4be9523d159f3b0 de875d6654d1d8b7932ddb578467ebcd7be83144 somtodev <leroynnalue65@gmail.com> 1706025946 +0100	commit: Update: Resolved Close Map
+de875d6654d1d8b7932ddb578467ebcd7be83144 59cfb4d44b203a042f1dc0e49faeed428c998684 somtodev <leroynnalue65@gmail.com> 1706243237 +0100	commit: Plugin: + barbar
+59cfb4d44b203a042f1dc0e49faeed428c998684 f73516a8f1395e81c506844d9c007d7068b70da7 somtodev <leroynnalue65@gmail.com> 1706280843 +0100	commit: Update: Barbar Mappings
+f73516a8f1395e81c506844d9c007d7068b70da7 11da8cc7732d551de5796b8f04b7f3bf909f62c8 somtodev <leroynnalue65@gmail.com> 1706308916 +0100	commit: Update: +Tabby
+11da8cc7732d551de5796b8f04b7f3bf909f62c8 7c7862d99dff71de3aa52bf151bafd0c7b36102a somtodev <leroynnalue65@gmail.com> 1706309847 +0100	commit: ⚙️ | ---
+7c7862d99dff71de3aa52bf151bafd0c7b36102a 8935ccd39d43e6cf75bb3304b09522d54c42d446 somtodev <leroynnalue65@gmail.com> 1706349104 +0100	pull: Fast-forward
+8935ccd39d43e6cf75bb3304b09522d54c42d446 d0f169afb33e578f3ab13f6c71094489a1ea9b6a somtodev <leroynnalue65@gmail.com> 1707260092 +0100	commit: Update: + NVIMTREE
+d0f169afb33e578f3ab13f6c71094489a1ea9b6a e95a4950bc5f7964fd176c2075a7f87595f0d52d somtodev <leroynnalue65@gmail.com> 1715208615 +0100	commit: Update: Vitesse Theme
+e95a4950bc5f7964fd176c2075a7f87595f0d52d 66b59b3d7af573ac36bb244016ad4a39170eebd2 somtodev <leroynnalue65@gmail.com> 1715208678 +0100	commit: Update: Vitesse Theme
+66b59b3d7af573ac36bb244016ad4a39170eebd2 25b04e6c606331089117ad2ef9b05ff33a4882b1 somtodev <leroynnalue65@gmail.com> 1730438889 +0100	commit: Checkpoint: rust lsp / themes / markdown-previewer
